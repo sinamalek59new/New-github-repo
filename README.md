@@ -1,2 +1,2 @@
 # New-github-repo
-repository edit
+repo finish edit
